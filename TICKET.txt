@@ -1,0 +1,21 @@
+Ticket No :-2021
+Name :-sush	Age :-19
+Location :-Kalamboli Colony	Destination:-Panvel Station
+Price:-11
+
+Have a safe Journy
+
+Ticket No :-2022
+Name :-sush	Age :-19
+Location :-Panvel Station	Destination:-Kalamboli Colony
+Price:-11
+
+Have a safe Journy
+
+Ticket No :-2021
+Name :-Ena	Age :-19
+Location :-K.L.E	Destination:-Panvel Station
+Price:-11
+
+Have a safe Journy
+
